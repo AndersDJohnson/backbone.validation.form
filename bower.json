@@ -1,0 +1,19 @@
+{
+  "name": "backbone.validation.form",
+  "main": "src/backbone.validation.form.js",
+  "version": "0.1.0",
+  "authors": [
+    "Anders D. Johnson"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "underscore": "~1.6.0"
+  }
+}
