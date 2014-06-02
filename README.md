@@ -6,8 +6,8 @@ Automate [Backbone.Validation] rules with HTML5 form input attributes.
 Supports:
 * `required`
 * `input[type=number]`
-* `input[type=number]`
-* `input[type=number]`
+* `input[type=email]`
+* `input[type=url]`
 * `input[pattern]`
 * `input[min]`
 * `input[max]`
